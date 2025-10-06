@@ -14,3 +14,4 @@ __pycache__/
 # Ignore temporary system files
 .DS_Store
 Thumbs.db
+!Drones_All_Together.xlsx
